@@ -21,4 +21,4 @@ Improve cost efficiency in low-profit categories
 Promote top-selling products
 Optimize pricing/logistics in low-profit cities
 
-![Dashboard]("C:\Users\sonuk\OneDrive\Desktop\Project\{FEC1DC5C-CEE1-463B-A169-714EC28D9DFF}.png")
+![Dashboard](["C:\Users\sonuk\OneDrive\Desktop\Project\{FEC1DC5C-CEE1-463B-A169-714EC28D9DFF}.png"](https://github.com/sonu-kumar-analytics/sales-analysis-project/blob/main/dashboard_screenshot.png))
