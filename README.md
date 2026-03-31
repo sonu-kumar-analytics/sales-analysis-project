@@ -1,8 +1,18 @@
 📊 Sales Performance Dashboard
 
+This project analyzes retail sales data to uncover insights on revenue, profitability, and overall business performance using Power BI, SQL, and Excel.
+
+---
+
 📌 Objective
 
 The objective of this project is to analyze sales data and identify key insights to improve business performance and profitability.
+
+---
+
+📂 Dataset
+
+The dataset contains order-level sales data including region, category, product, sales, and profit details.
 
 ---
 
@@ -16,11 +26,19 @@ The objective of this project is to analyze sales data and identify key insights
 
 🔄 Process
 
-1. Collected and cleaned the dataset using Excel
+1. Cleaned and prepared the dataset using Excel
 2. Performed data analysis using SQL
 3. Created KPIs like Total Sales, Total Profit, and Profit Margin
 4. Built an interactive dashboard using Power BI
 5. Generated insights and business recommendations
+
+---
+
+📊 Key KPIs
+
+* Total Sales
+* Total Profit
+* Profit Margin
 
 ---
 
@@ -46,4 +64,3 @@ The objective of this project is to analyze sales data and identify key insights
 📷 Dashboard Preview
 
 ![Dashboard](dashboard_screenshot.png)
-
