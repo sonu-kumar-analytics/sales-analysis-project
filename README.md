@@ -45,5 +45,5 @@ The objective of this project is to analyze sales data and identify key insights
 
 📷 Dashboard Preview
 
-![Dashboard](dashboard_screenshot)
+![Dashboard](dashboard_screenshot.png)
 
