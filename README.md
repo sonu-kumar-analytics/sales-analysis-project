@@ -1,66 +1,128 @@
-📊 Sales Performance Dashboard
+# 📊 Sales Performance Dashboard
 
-This project analyzes retail sales data to uncover insights on revenue, profitability, and overall business performance using Power BI, SQL, and Excel.
+## 🚀 Project Overview
+This project focuses on analyzing sales data to understand business performance, identify profitable areas, and uncover opportunities for growth.
 
----
-
-📌 Objective
-
-The objective of this project is to analyze sales data and identify key insights to improve business performance and profitability.
+Using SQL and Power BI, an interactive dashboard was created to track key metrics such as sales, profit, and profit margin across different regions, categories, and time periods.
 
 ---
 
-📂 Dataset
-
-The dataset contains order-level sales data including region, category, product, sales, and profit details.
-
----
-
-🛠 Tools Used
-
-* Power BI
-* SQL
-* Excel
+## 🎯 Objectives
+- Analyze overall sales and profit performance  
+- Identify top-performing regions, products, and cities  
+- Track monthly sales trends  
+- Highlight low-profit areas for improvement  
+- Support data-driven business decision-making  
 
 ---
 
-🔄 Process
-
-1. Cleaned and prepared the dataset using Excel
-2. Performed data analysis using SQL
-3. Created KPIs like Total Sales, Total Profit, and Profit Margin
-4. Built an interactive dashboard using Power BI
-5. Generated insights and business recommendations
+## 🛠️ Tools & Technologies
+- **SQL (MySQL)** → Data analysis and querying  
+- **Power BI** → Dashboard creation and visualization  
 
 ---
 
-📊 Key KPIs
-
-* Total Sales
-* Total Profit
-* Profit Margin
-
----
-
-📈 Key Insights
-
-* West region generates the highest sales
-* Technology category is the most profitable
-* Furniture category shows low profitability
-* Sales trend is increasing over time
-* Some cities have high sales but low profit
+## 📂 Dataset
+- Superstore dataset  
+- Includes:
+  - Order Date  
+  - Sales  
+  - Profit  
+  - Region  
+  - Category  
+  - Product Name  
+  - City  
 
 ---
 
-💡 Business Recommendations
+## 🔍 Key Analysis Performed
 
-* Focus on high-performing regions like West
-* Improve cost efficiency in low-profit categories
-* Promote top-selling products
-* Optimize pricing and logistics in low-profit cities
+### 📌 1. Overall Performance
+- Total Sales and Profit  
+- Profit Margin Calculation  
+
+### 📌 2. Regional Analysis
+- Sales by Region  
+- Profitability by Region  
+
+### 📌 3. Category Analysis
+- Profit by Category  
+- Identification of low-profit categories  
+
+### 📌 4. Product Analysis
+- Top-selling products  
+- Loss-making products  
+
+### 📌 5. City Analysis
+- Top cities by sales and profit  
+- High sales but low profit cities  
+
+### 📌 6. Time Analysis
+- Monthly sales and profit trends  
 
 ---
 
-📷 Dashboard Preview
+## 📊 Dashboard Features
+- KPI Cards:
+  - Total Sales  
+  - Total Profit  
+  - Profit Margin  
 
-![Dashboard](dashboard_screenshot.png)
+- Visualizations:
+  - Sales by Region  
+  - Monthly Sales Trend  
+  - Profit by Category  
+  - Top Products  
+  - Top Cities  
+  - Profit Distribution  
+
+- Interactive Filters:
+  - Month  
+  - Region  
+  - Category  
+  - Year  
+
+---
+
+## 💡 Key Insights
+- 📈 Sales show a consistent increasing trend over time  
+- 🌍 West region generates the highest sales  
+- 🏙️ New York leads in both sales and profit  
+- 🏆 Canon imageCLASS 2200 Advanced Copier is the top-selling product  
+- ⚠️ Furniture category has low profitability  
+- 📉 Some cities and products have high sales but low profit  
+
+---
+
+## 📈 Business Impact
+- Helps identify high-performing regions and products  
+- Highlights areas with low profitability for improvement  
+- Supports better pricing and cost optimization strategies  
+- Enables data-driven decision-making  
+
+---
+
+## 📁 Project Files
+- SQL queries → :contentReference[oaicite:0]{index=0}  
+- Power BI dashboard (.pbix)  
+- Dataset  
+
+---
+
+## 🧠 Learnings
+- Improved SQL querying and data analysis skills  
+- Built interactive dashboards using Power BI  
+- Learned how to analyze business performance using KPIs  
+- Gained experience in identifying actionable insights  
+
+---
+
+## 🔗 Future Improvements
+- Add forecasting for sales prediction  
+- Implement machine learning for profit prediction  
+- Automate data pipeline  
+
+---
+
+## 🙌 Conclusion
+This project demonstrates how sales data can be analyzed to uncover insights, improve profitability, and support business growth through data-driven decisions.
