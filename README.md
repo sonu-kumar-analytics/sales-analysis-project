@@ -103,7 +103,7 @@ Using SQL and Power BI, an interactive dashboard was created to track key metric
 ---
 
 ## 📁 Project Files
-- SQL queries → :contentReference[oaicite:0]{index=0}  
+- SQL queries → :sales_analysis.sql
 - Power BI dashboard (.pbix)  
 - Dataset  
 
