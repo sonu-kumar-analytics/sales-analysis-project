@@ -126,3 +126,8 @@ Using SQL and Power BI, an interactive dashboard was created to track key metric
 
 ## 🙌 Conclusion
 This project demonstrates how sales data can be analyzed to uncover insights, improve profitability, and support business growth through data-driven decisions.
+
+---
+
+[![Dashboard Preview](dashboard_screenshot.png)](https://link-to-your-live-dashboard.com)
+
